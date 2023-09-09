@@ -1,3 +1,5 @@
+import React from "react";
+
 function App() {
   return <h2>Menu App</h2>;
 }
