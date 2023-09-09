@@ -1,8 +1,5 @@
-import logo from "./logo.svg";
-import "./App.css";
-
 function App() {
-  return <div className="App">Menu App</div>;
+  return <h2>Menu App</h2>;
 }
 
 export default App;
